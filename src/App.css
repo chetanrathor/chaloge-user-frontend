@@ -1,0 +1,7 @@
+.no-pseudo-input:hover,
+.no-pseudo-input:focus,
+.no-pseudo-input:active {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
